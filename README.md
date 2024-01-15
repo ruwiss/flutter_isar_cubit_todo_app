@@ -1,6 +1,6 @@
 ## Todo Uygulaması
 
-MVVM Bloc / Cubit yapısı ile Isar Veritabanı kullanımı
+Bloc / Cubit yapısı ile Isar Veritabanı kullanımı
 
 ### Paketler
 - [Isar Database](https://isar.dev/tutorials/quickstart.html)
